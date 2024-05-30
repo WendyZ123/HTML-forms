@@ -1,0 +1,11 @@
+body {
+  padding: 10px;
+}
+
+
+div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+  justify-content: left;
+}
